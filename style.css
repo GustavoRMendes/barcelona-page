@@ -16,12 +16,12 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px;
+  padding: 20px 60px 0 60px;
 }
 
 .navbar {
   display: flex;
-  gap: 1rem;
+  gap: 3rem;
 }
 
 ul {
