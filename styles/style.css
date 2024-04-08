@@ -24,6 +24,7 @@ header {
 .navbar {
   display: flex;
   gap: 3rem;
+  font-weight: 600;
 }
 .navbar a {
   text-decoration: none;
