@@ -1,0 +1,16 @@
+.elenco-bg {
+  background-color: var(--cor-2);
+}
+.elenco {
+  padding: 60px;
+}
+.elenco h2 {
+  margin-bottom: 60px;
+  color: var(--cor-11);
+}
+.elenco-flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  color: var(--cor-8);
+}
