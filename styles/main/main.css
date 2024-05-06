@@ -1,0 +1,54 @@
+.navbar {
+  display: flex;
+  gap: 3rem;
+  font-weight: 400;
+}
+.navbar a {
+  text-decoration: none;
+  color: #a5a5a5;
+  font-size: 1.05rem;
+}
+
+.button-see {
+  padding: 6px 12px;
+  font-size: 12px;
+  border: none;
+  border-radius: 2px;
+  background-color: crimson;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.button-see:hover {
+  background-color: rgb(139, 8, 34);
+}
+.barcelonaPage {
+  padding: 6px 12px;
+  font-size: 14px;
+  border: none;
+  border-radius: 2px;
+  background-color: crimson;
+  color: white;
+  text-decoration: none;
+}
+.barcelonaPage:hover {
+  background-color: rgb(201, 39, 72);
+}
+.main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-items: center;
+  gap: 10px;
+  padding: 60px;
+}
+.title {
+  font-size: 2rem;
+  color: #c9c9c9;
+}
+
+.right {
+  display: grid;
+  align-content: start;
+  justify-items: start;
+  gap: 20px;
+}
