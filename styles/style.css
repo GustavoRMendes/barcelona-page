@@ -1,34 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-h1,
-h2,
-h3,
-button {
-  font-family: "Poppins";
-}
-p,
-span,
-a {
-  font-family: "Roboto";
-}
-body {
-  background-color: #fcfcfc;
-}
-
-img {
-  max-width: 100%;
-  border-radius: 4px;
-}
-
-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px 60px 0 60px;
-}
+@import url('./global/global.css');
 
 .navbar {
   display: flex;
@@ -39,9 +9,6 @@ header {
   text-decoration: none;
   color: #a5a5a5;
   font-size: 1.05rem;
-}
-ul {
-  list-style: none;
 }
 
 .button-see {
@@ -80,17 +47,10 @@ ul {
   font-size: 2rem;
   color: #c9c9c9;
 }
-p {
-  font-size: 1rem;
-}
+
 .right {
   display: grid;
   align-content: start;
   justify-items: start;
   gap: 20px;
-}
-footer {
-  text-align: center;
-  background-color: rgb(216, 216, 216);
-  padding: 30px;
 }
