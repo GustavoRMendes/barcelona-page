@@ -12,7 +12,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  color: var(--cor-8);
+  color: var(--cor-6);
 }
 .elenco-flex img {
   width: 200px;
