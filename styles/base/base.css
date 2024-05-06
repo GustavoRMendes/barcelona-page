@@ -1,0 +1,14 @@
+.base-bg {
+  background-color: var(--cor-11);
+}
+
+.base {
+  padding: 60px;
+}
+.base h2 {
+  color:var(--cor-w) ;
+}
+.base p {
+  color: var(--cor-8);
+  margin-top: 20px;
+}
