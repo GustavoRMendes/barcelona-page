@@ -14,25 +14,25 @@
   font-size: 12px;
   border: none;
   border-radius: 2px;
-  background-color: crimson;
-  color: white;
+  background-color: var(--cor-primaria);
+  color: var(--cor-w);
   cursor: pointer;
   transition: 0.3s;
 }
 .button-see:hover {
-  background-color: rgb(139, 8, 34);
+  background-color: var(--cor-primaria-hover);
 }
 .barcelonaPage {
   padding: 6px 12px;
   font-size: 14px;
   border: none;
   border-radius: 2px;
-  background-color: crimson;
-  color: white;
+  background-color: var(--cor-primaria);
+  color: var(--cor-w);
   text-decoration: none;
 }
 .barcelonaPage:hover {
-  background-color: rgb(201, 39, 72);
+  background-color: var(--cor-primaria-hover);
 }
 .main {
   display: grid;
