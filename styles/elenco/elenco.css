@@ -4,7 +4,7 @@
 .elenco {
   padding: 60px;
 }
-.elenco h2 {
+.elenco h1 {
   margin-bottom: 60px;
   color: var(--cor-11);
 }
