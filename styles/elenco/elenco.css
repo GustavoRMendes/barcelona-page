@@ -14,3 +14,6 @@
   gap: 20px;
   color: var(--cor-8);
 }
+.elenco-flex img {
+  width: 200px;
+}
