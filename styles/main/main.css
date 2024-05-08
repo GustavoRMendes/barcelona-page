@@ -19,9 +19,7 @@
   cursor: pointer;
   transition: 0.3s;
 }
-.button-see:hover {
-  background-color: var(--cor-primaria-hover);
-}
+
 .barcelonaPage {
   padding: 8px 16px;
   font-size: 14px;
@@ -31,9 +29,7 @@
   color: var(--cor-w);
   text-decoration: none;
 }
-.barcelonaPage:hover {
-  background-color: var(--cor-primaria-hover);
-}
+
 .main {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
