@@ -48,3 +48,8 @@
   justify-items: start;
   gap: 20px;
 }
+
+html {
+  scroll-snap-type: proximity;
+  scroll-behavior: smooth;
+}
